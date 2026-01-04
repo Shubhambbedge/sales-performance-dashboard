@@ -1,4 +1,4 @@
-# sales-performance-dashboard
+# Sales Performance Dashboard – Power BI
 Power BI Sales Dashboard Project with KPIs and Insights
 Objective
 
